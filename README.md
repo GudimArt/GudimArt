@@ -1,4 +1,7 @@
-<h1 align="center"> Привет, 👋 меня зовут Артём </h1>
+<div align="center">
+  <h1 align="center"> Привет, 👋 меня зовут Артём </h1>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN1enNmbGoxZng1ZXdkdTR3dmVkOTRnZjVjOHRsend0ZjV6NjY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="center" width="300" height="200"/>
+</div>
 
 ## Обо мне
 Я молодой бэкенд-разработчик, увлечён программированием и решением задач, с опытом в области администрирования.
