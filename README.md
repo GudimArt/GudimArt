@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75858&background=FF000000&center=true&vCenter=true&multiline=true&width=635&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%F0%9F%91%8B+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D1%82%D1%91%D0%BC" alt="Typing SVG" /></a></h1>
+  <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75858&background=FF000000&center=true&vCenter=true&multiline=true&width=635&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%F0%9F%91%8B+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D1%82%D1%91%D0%BC" alt="Typing SVG" /></a></h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN1enNmbGoxZng1ZXdkdTR3dmVkOTRnZjVjOHRsend0ZjV6NjY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="center" width="300" height="200"/>
 </div>
 
